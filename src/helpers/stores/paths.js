@@ -6,7 +6,8 @@ function getPaths() {
  return [
     "/data/Movies",
     "/data/Series",
-    "/data/Anime"
+    "/data/Anime",
+    "/data/Cartoons"
  ];
 }
 
