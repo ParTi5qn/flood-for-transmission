@@ -4,10 +4,10 @@ const PATHS_STORAGE_KEY = 'paths';
 
 function getPaths() {
  return [
-    "/data/Movies",
-    "/data/Series",
     "/data/Anime",
-    "/data/Cartoons"
+    "/data/Series",
+    "/data2/Cartoons",
+    "/data2/Movies",
  ];
 }
 
